@@ -2,6 +2,7 @@
 After a few more rounds of joins and cleanings (mostly left joins so the starting information was the core of our dataframe), we had a new file, that had title, title id, primary genre, runtime, month of release (another value I had separated out), a few other less important variables, but most importantly, foreign and domestic gross revenue.  From here, I was able to compile the following chart:
  
 ![Imgur](https://i.imgur.com/REe0rRv.png)
+![Imgur](https://i.imgur.com/LiziHy9.png)
 
 From there, I gathered the top six genres by revenue.  Listed from most to least revenue, they are Action, Adventure, Drama, Comedy, Documentary, and Biography.  Next I started looking at when revenue spiked (both worldwide and domestic) for each genre.  Below is the final chart.  As you can see, each genre has 2-3 months where revenue spikes significantly.  This is likely when the market and demand for these movies is highest.  Using this information, Microsoft can create a release schedule for its top movies in each genre!  The gross revenue figures (Y axis) are shown in billions of dollars, and the pink signifies worldwide gross, while the blue signifies domestic gross.
 
